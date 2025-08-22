@@ -19,6 +19,6 @@ Criar uma aplicação em Java que tenha uma função recursiva que, recebendo um
 ## Como Executar
 
 1. Compile o arquivo `.java` usando o terminal.
-2. Execute a classe principal,Saidaview .
+2. Execute a classe view.Main.
 
 ---
